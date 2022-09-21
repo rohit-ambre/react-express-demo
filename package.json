@@ -15,6 +15,6 @@
     "heroku-postbuild": "cd client && yarn && yarn run build"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.20"
   }
 }
